@@ -11,7 +11,7 @@ const _Layout = () => {
         tabBarStyle: {
           backgroundColor: "#606c38",
           borderRadius: 50,
-          marginHorizontal: 20,
+          marginHorizontal: 80,
           marginBottom: 36,
           height: 52,
           position: "absolute",
@@ -20,7 +20,7 @@ const _Layout = () => {
           borderColor: "#283618",
         },
         tabBarItemStyle: {
-          width: "100%",
+          width: "auto",
           height: "100%",
           justifyContent: "center",
           alignItems: "center",
@@ -46,17 +46,6 @@ const _Layout = () => {
           headerShown: false,
           tabBarIcon: ({ focused }) => (
             <NavItem image={icons.search} focused={focused} title="Search" />
-          ),
-        }}
-      />
-
-      <Tabs.Screen
-        name="bookmarks"
-        options={{
-          title: "Bookmarks",
-          headerShown: false,
-          tabBarIcon: ({ focused }) => (
-            <NavItem image={icons.save} focused={focused} title="Bookmarks" />
           ),
         }}
       />

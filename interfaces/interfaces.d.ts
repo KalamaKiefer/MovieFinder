@@ -15,6 +15,11 @@ interface Movie {
   vote_count: number;
 }
 
+interface MovieResults {
+  page: number;
+  results: Array<Movie>;
+}
+
 interface TrendingMovie {
   searchTerm: string;
   movie_id: number;
