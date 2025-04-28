@@ -1,5 +1,3 @@
-### 📘 **README.md**
-
 # 🎬 React Native Movie App
 
 A visually appealing and performance-optimized movie app built with **React Native**, **Expo**, **TypeScript**, **React Query**, and **Tailwind CSS**. Browse the latest films, explore my top 5 featured picks, or search through the vast collection of movies using **The Movie Database (TMDb)** API.
