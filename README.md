@@ -68,16 +68,13 @@ Make sure to use your API key securely with something like `expo-constants` or a
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+### 🏠 Home Screen, 🕵️ Details Screen,  🔍 Search Results Screen
 
-![Home Screen](./assets/screenshots/home.PNG)
+<p align="center">
+  <img src="./assets/screenshots/home.PNG" width="300"/>
+  <img src="./assets/screenshots/details.PNG" width="300"/>
+  <img src="./assets/screenshots/searchResults.PNG" width="300"/>
+</p>
 
-### :male_detective: Details Screen
-
-![Details Screen](./assets/screenshots/details.PNG)
-
-### 🔍 Search Results Screen
-
-![Search Results Screen](./assets/screenshots/searchResults.PNG)
 
 ---
