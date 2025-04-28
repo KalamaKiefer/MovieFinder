@@ -34,8 +34,6 @@ A visually appealing and performance-optimized movie app built with **React Nati
    cd react-native-movie-app
    ```
 
-````
-
 2. **Install dependencies**
 
    ```bash
@@ -83,7 +81,3 @@ Make sure to use your API key securely with something like `expo-constants` or a
 
 ---
 
-```
-
-
-````
