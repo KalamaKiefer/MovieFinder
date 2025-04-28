@@ -1,5 +1,3 @@
-### 📘 **README.md**
-
 # 🎬 React Native Movie App
 
 A visually appealing and performance-optimized movie app built with **React Native**, **Expo**, **TypeScript**, **React Query**, and **Tailwind CSS**. Browse the latest films, explore my top 5 featured picks, or search through the vast collection of movies using **The Movie Database (TMDb)** API.
@@ -31,12 +29,11 @@ A visually appealing and performance-optimized movie app built with **React Nati
 ## 📦 Installation
 
 1. **Clone the repo**
+
    ```bash
    git clone https://github.com/your-username/react-native-movie-app.git
    cd react-native-movie-app
    ```
-
-````
 
 2. **Install dependencies**
 
@@ -84,7 +81,3 @@ Make sure to use your API key securely with something like `expo-constants` or a
 ![Search Results Screen](./assets/screenshots/searchResults.PNG)
 
 ---
-
-
-
-````
